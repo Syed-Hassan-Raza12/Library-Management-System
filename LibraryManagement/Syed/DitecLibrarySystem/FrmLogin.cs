@@ -42,18 +42,5 @@ namespace DitecLibrarySystem
         {
             
         }
-
-        private void pictureBox1_MouseHover(object sender, EventArgs e)
-        {
-
-            pictureBox1.Height = pictureBox1.Height + 5;
-            pictureBox1.Width = pictureBox1.Width + 5;
-        }
-
-        private void pictureBox1_MouseLeave(object sender, EventArgs e)
-        {
-            pictureBox1.Height = pictureBox1.Height - 5;
-            pictureBox1.Width = pictureBox1.Width - 5;
-        }
     }
 }
