@@ -18,7 +18,7 @@ namespace DitecLibrarySystem
 
         private void btnSignIn_Click(object sender, EventArgs e)
         {
-            if (txtUserName.Text == "hanan" && txtPassword.Text == "0000")
+            if (txtUserName.Text == "raza" && txtPassword.Text == "0000")
             {
                 FrmHome h = new FrmHome();
                 h.adminUser = true;
