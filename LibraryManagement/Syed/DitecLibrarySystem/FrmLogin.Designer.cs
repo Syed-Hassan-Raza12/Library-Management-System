@@ -45,7 +45,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(233, 42);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Library Management System \r\nBy Raza";
+            this.label1.Text = "Library Management System";
             // 
             // label3
             // 
